@@ -41,7 +41,9 @@ This Python project analyzes baby name data provided by the Social Security Admi
 ##   Project Structure
 
 ├── README.md
+
 ├── baby_names_analysis.py  # Main Python script
+
 └── names.zip              # (Downloaded dataset)
 
 ##   Usage
