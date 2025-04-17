@@ -30,9 +30,9 @@ This Python project analyzes baby name data provided by the Social Security Admi
     * (If running locally) Install the required libraries: `pip install pandas zipfile matplotlib`
 2.  **Dataset:**
     * Download the dataset from the Social Security Administration (SSA) website:
-        * Go to https://www.ssa.gov/oact/babynames/limits.html [cite: 6]
-        * Click on 'National data' [cite: 6]
-        * Download the zipped file. [cite: 6]
+        * Go to https://www.ssa.gov/oact/babynames/limits.html 
+        * Click on 'National data' 
+        * Download the zipped file. 
     * Place the zipped file in the project directory.
 3.  **Running the Code:**
     * If using Google Colab, upload the zipped file to the Colab environment and run the notebook.
@@ -42,13 +42,13 @@ This Python project analyzes baby name data provided by the Social Security Admi
 
 ├── README.md
 
-├── baby_names_analysis.py  # Main Python script
+├── Analyzing_Naming_Trends.ipynb  # Main Python Notebook
 
-└── names.zip              # (Downloaded dataset)
+└── names.zip                      # (Downloaded dataset)
 
 ##   Usage
 
-The script `baby_names_analysis.py` contains the code to:
+The script `Analyzing_Naming_Trends.ipynb` contains the code to:
 
 * Extract data from the zip file.
 * Perform data analysis and calculations.
